@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589559031 source:c:\users\eduard\desktop\cc\lab6\main.cpp
+	<iostream>
+	<list>
+	<map>
+
